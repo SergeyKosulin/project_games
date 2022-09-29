@@ -32,5 +32,5 @@ Matplotlib
 
 **Ссылка на проект**
 
-(project_games)[https://github.com/SergeyKosulin/project_games/blob/main/project-games.ipynb]
+[project_games](https://github.com/SergeyKosulin/project_games/blob/main/project-games.ipynb)
  
